@@ -30,7 +30,6 @@ This project is a **Railway-Reservation-Management-System** that allows users to
 #### Front-End:
 - HTML
 - CSS
-- JavaScript (for interactive features)
 
 #### Back-End:
 - PHP (server-side scripting)
